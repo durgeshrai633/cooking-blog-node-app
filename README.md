@@ -1,2 +1,2 @@
-                                                                     # Cooking Blog
+# Cooking Blog
                                                                      
