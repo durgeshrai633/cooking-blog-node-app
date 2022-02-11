@@ -1,5 +1,5 @@
 # Cooking Blog
-
+A Cooking Blog where user can post the recipies of different catagories like Thai, Indian, Chinese etc.
 ## 1. Technologies Used
 
 1.  HTML
